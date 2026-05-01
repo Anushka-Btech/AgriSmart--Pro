@@ -2,6 +2,8 @@
 
 A full-stack frontend React dashboard for Indian agriculture — crop market prices, weather advisory, and crop record management.
 
+## Website delpoyed is live at- https://agri-smart-pro-hwf9-g8udvri75-anushkachhoker60-1749s-projects.vercel.app/
+
 ## Tech Stack
 - **React 19** + Vite
 - **Redux Toolkit** — state management
